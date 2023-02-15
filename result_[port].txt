@@ -1,0 +1,13 @@
+ip:142.251.36.142,port:32 is open.
+ip:142.251.36.142,port:33 is open.
+ip:142.251.36.142,port:34 is open.
+ip:142.251.36.142,port:35 is open.
+ip:142.251.36.142,port:36 is open.
+ip:142.251.36.142,port:37 is open.
+ip:142.251.36.142,port:38 is open.
+ip:142.251.36.142,port:39 is open.
+ip:142.251.36.142,port:40 is open.
+ip:142.251.36.142,port:41 is open.
+ip:142.251.36.142,port:42 is open.
+ip:142.251.36.142,port:43 is open.
+ip:142.251.36.142,port:44 is open.

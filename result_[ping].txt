@@ -1,0 +1,12 @@
+result of pinging 
+
+================================================
+64 bytes from 89.43.0.254: time=294ms  packets:> sent:3   received:1  lost:2   66.67% packet loss  
+================================================
+64 bytes from 89.43.5.57: time=477ms  packets:> sent:3   received:1  lost:2   66.67% packet loss  
+================================================
+64 bytes from 89.43.5.58: time=480ms64 bytes from 89.43.5.58: time=483ms  packets:> sent:3   received:2  lost:1   33.33% packet loss  
+================================================
+64 bytes from 89.43.6.85: time=1496ms  packets:> sent:3   received:1  lost:2   66.67% packet loss  
+================================================
+64 bytes from 89.43.6.120: time=1535ms  packets:> sent:3   received:1  lost:2   66.67% packet loss  
